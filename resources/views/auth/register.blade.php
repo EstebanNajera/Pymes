@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card card-default">
-                <div class="card-header">Register</div>
+                <div class="card-header">Registro</div>
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('register') }}">
@@ -124,7 +124,7 @@
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
                                 <button type="submit" class="btn " style="background-color: #009688;">
-                                    Register
+                                    Registrar
                                 </button>
                             </div>
                         </div>
